@@ -1,0 +1,6 @@
+com\flinters\test\App.class
+com\flinters\test\CampaignStats.class
+com\flinters\test\AdAggregator.class
+com\flinters\test\CsvLineParser.class
+com\flinters\test\CsvResultWriter.class
+com\flinters\test\CsvLineParser$ParsedRecord.class
